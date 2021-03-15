@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/SawYuNwe-jp/typescript-react-project/issues"
   },
-  "homepage": "https://github.com/SawYuNwe-jp/typescript-react-project#readme"
+  "homepage": "https://github.com/SawYuNwe-jp/typescript-react-project#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
